@@ -134,6 +134,8 @@ const Navbar = () => {
               href='/'
             >
               Resume <BsFillPersonLinesFill size={30} />
+
+              
             </a>
           </li>
         </ul>
